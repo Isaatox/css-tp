@@ -1,0 +1,15 @@
+h1{
+    color: #464646;
+    text-shadow: 2px 2px 10px black;
+}
+
+p, li{
+    color: darkseagreen;
+    list-style-type: square;
+}
+
+li.special{
+    font-weight: bold;
+    color: brown;
+    font-size: 150%;
+}
